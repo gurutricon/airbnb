@@ -13,6 +13,7 @@ class Home extends React.Component {
   };
   render() {
     return (
+      
       <div>
         <Banner />
         <div className="home__cont">

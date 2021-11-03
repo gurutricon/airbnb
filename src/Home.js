@@ -4,6 +4,7 @@ import Contents from "./home/Contents";
 import { Link } from "react-router-dom";
 import { Content, Maincontents, Bigcontents } from "./Maincontents";
 import "./home/contents.css";
+
 class Home extends React.Component {
   state = {
     maincontent: Maincontents,
